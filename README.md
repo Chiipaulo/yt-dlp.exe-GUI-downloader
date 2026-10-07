@@ -14,3 +14,5 @@ yt-dlp-ejs - Necessário para suporte completo ao YouTube. Licenciado sob a lice
 Um runtime/engine JavaScript como deno (recomendado), node.js, bun ou QuickJS também é necessário para executar yt-dlp-ejs. Veja o wiki.
 
 fonte:  https://github.com/yt-dlp/yt-dlp#strongly-recommended
+
+Link origina do programa - Dúvidas sobre a utilização do yt-dlp.exe:  https://github.com/yt-dlp/yt-dlp
